@@ -1,0 +1,37 @@
+body {
+    background-color: #000;
+    /*background-image:url(../img/fancy-cushion.webp);*/
+    color: #fff;
+    font-size: 21px;
+}
+
+p {
+    color: #1c18d698;
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(212, 57, 243);
+}
+
+/* this is a CSS comment. Don't use HTML comments in CSS */
+
+/* The 3 different parts to the box model */
+
+/*  Margin
+    Border
+    Padding */
+
+.box {
+    background-image: url(../img/dog.jpg);
+    width: 300px;
+
+    margin: 200px;
+    border: 10px #b98f0398 solid;
+    padding: 200px; /* top right bottom left */
+
+    background-position: center;
+    
+    
+}
+
