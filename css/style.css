@@ -1,6 +1,6 @@
-body {
+/*body {
     background-color: #000;
-    /*background-image:url(../img/fancy-cushion.webp);*/
+    /*background-image:url(../img/fancy-cushion.webp);
     color: #fff;
     font-size: 21px;
 }
@@ -20,7 +20,7 @@ h1 {
 
 /*  Margin
     Border
-    Padding */
+    Padding 
 
 .box {
     background-image: url(../img/dog.jpg);
@@ -28,10 +28,9 @@ h1 {
 
     margin: 200px;
     border: 10px #b98f0398 solid;
-    padding: 200px; /* top right bottom left */
+    padding: 200px; /* top right bottom left 
 
-    background-position: center;
-    
-    
-}
+    background-position: center;*/
+
+
 
